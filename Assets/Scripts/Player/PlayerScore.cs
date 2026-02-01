@@ -1,4 +1,5 @@
 using System;
+using MazeElements;
 using TMPro;
 using UnityEngine;
 
